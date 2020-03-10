@@ -1,0 +1,77 @@
+/* {
+//    border: 2px solid;
+}
+*/
+
+
+/*Treinamento de astronauta*/
+
+body {
+    width: 99%;
+    height: 99%;
+}
+
+#treinamento_bg {
+    background-image: url(/assets/images/treinamento_bg.jpg);
+    background-size: cover;
+}
+
+.title_treinamento {
+    color: white;
+}
+
+h3 {
+    color: yellow;
+}
+
+ul {
+    color: white;
+}
+
+#astronomy-class {
+    color: red;
+}
+
+h2 {
+    background-color: yellow;
+    border: 2px red solid;
+}
+
+h1 {
+    color: blue
+}
+
+.principal-text {
+    color: green;
+}
+
+.first-page {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/assets/images/javascript_bg.jpg);
+}
+
+.welcome-text {
+    font-size: 75%;
+}
+
+#selec-module {
+    width: 30%;
+    margin: 0px 0px 0px 0px;
+    padding: initial;
+    background: #F8DA59;
+    background-size: 10%;
+}
+
+p {
+    font-family: fantasy;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    text-decoration: none;
+    color: blue;
+}
